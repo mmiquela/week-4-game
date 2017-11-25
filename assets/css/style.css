@@ -6,29 +6,24 @@ body {
 h1 {
 	color: #ccc;
 }
-
 p {
 	color: black;
 }
-
 #container {
 	margin-top:25px;
 }
-
 header {
 	background-color: rgb(201, 76, 76);
 	width: 500px;
 	margin: 0 auto;
 	border-radius: 25%;
 }
-
 header h1 {
 	text-align: center;
 	font-size: 50px;
 	letter-spacing: 2px;
 	padding: 8px 5px 8px 5px;
 }
-
 section {
 	background-color: rgb(201, 76, 76);
 	width: 1100px;
@@ -36,23 +31,19 @@ section {
 	line-height: 1em;
 	margin: 25px auto 10px;
 }
-
 section p {
 	padding-top: 20px;
 	padding-left: 10px;
 	padding-right: 5px;
 }
-
 #RandomNumberWinsLosses {
 	width: 500px;
 	margin: 0 auto 10px;
 	height: 120px;
 }
-
 #RandomNumber {
 	padding-left: 8px;
 }
-
 #RandomNumber p{
 	background-color: white;
 	width: 49%;
@@ -62,13 +53,11 @@ section p {
 	text-align: center;
 	line-height: 1.4em;
 }
-
 #StartNumber {
 	font-size: 60px;
 	width: 49%;
 	height: 100%;
 }
-
 #WinsLosses {
 	background-color: #fff;
 	width: 49%;
@@ -78,7 +67,6 @@ section p {
 	text-align: center;
 	line-height: 1.4em;
 }
-
 #Crystals {
 	background-color: #fff;
 	width: 496px;
@@ -86,13 +74,11 @@ section p {
 	margin: auto;
 	border: 2px solid #f08e2a;
 }
-
 #Crystals img {
 	width: 25%;
 	height: 100%;
 	float: left;
 }
-
 #TotalScore {
 	clear:both;
 	width: 500px;
@@ -100,17 +86,14 @@ section p {
 	background-color: #2a967d;
 	margin: 10px auto;
 }
-
 #TotalScore h1{
 	font-size: 150%;
 	padding-top: 10px;
 	padding-left: 10px;
 	padding-bottom: 10px;
 }
-
 #TotScore {
 	color: #fff;
 	font-size: 350%;
 	padding-left: 10px;
-
 }
